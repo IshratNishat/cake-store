@@ -1,0 +1,248 @@
+@media (max-width:320px) {
+    html, body {
+        overflow-x: hidden;
+    }
+}
+@media (max-width:481px) {
+    html, body {
+        overflow-x: hidden;
+    }
+}
+@media (max-width:769px) {
+    html, body {
+        overflow-x: hidden;
+    }
+}
+@media (max-width:1025px) {
+    html, body {
+        overflow-x: hidden;
+    }
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 360px) {
+    html, body {
+        overflow-x: hidden;
+    }
+    .herosection{
+        height: 500px;
+        width: 100%;
+    }
+    .hero_caption{
+        text-align: right;
+        top: 60px;
+    }
+    .hero_caption .shop-tittle{
+        top: -50px;
+        left: -12px;
+    }
+    .hero_caption .shop-tittle h2{
+        font-size: 100px;
+    }
+    .hero_caption h1{
+        font-size: 50px;
+        color: #f04506;
+    }
+    .hero-shape img{
+        width: 200px;
+    }
+    .sectiongap {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .right-caption {
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .service-shape {
+        right: 0px;
+        top: -65;
+    }
+    .service-shape img{
+        width: 100%;
+    }
+    .right-caption {
+        padding-bottom: 65px;
+    }
+    .section-padding40 {
+        padding-top: 75px;
+        padding-bottom: 50px;
+    }
+    .video-area {
+        height: 360px;
+    }
+    .client-say {
+        padding-top: 45px;
+        padding-bottom: 0px;
+    }
+    .client-say .client-caption p {
+        padding: 10px 20px;
+        text-align: left;
+    }
+    .client-say .client-caption {
+        padding: 0px 0px 0px 0px;
+    }
+    .footer-tittle{
+        text-align: center;
+    }
+    .footer-area .footer-tittle h4 {
+        margin-bottom: 20px;
+        margin-top: 30px;
+    }
+    .number{
+        text-align: center !important;
+    }
+    .footer-logo {
+        text-align: center;
+    }
+    .footer-padding {
+        padding-top: 50px;
+    }
+    .navbar-nav{
+        width: 170px;
+        float: right;
+    }
+    .collapse ul li {
+        margin-right: 0px;
+    }
+}
+  
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (max-width: 600px) {
+    html, body {
+        overflow-x: hidden;
+    }
+
+    .herosection{
+        height: 500px;
+        width: 100%;
+    }
+    .hero_caption{
+        text-align: right;
+        top: 60px;
+    }
+    .hero_caption .shop-tittle{
+        top: -50px;
+        left: -12px;
+    }
+    .hero_caption .shop-tittle h2{
+        font-size: 100px;
+    }
+    .hero_caption h1{
+        font-size: 50px;
+        color: #f04506;
+    }
+    .hero-shape img{
+        width: 200px;
+    }
+    .sectiongap {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .right-caption {
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .service-shape {
+        right: -186px;
+        top: -60px;
+    }
+    .service-shape img{
+        width: 65%;
+    }
+    .our-services .single-services {
+        padding: 50px 33px;
+    }
+    .right-caption {
+        padding-bottom: 65px;
+        text-align: center;
+    }
+    .section-padding40 {
+        padding-top: 75px;
+        padding-bottom: 50px;
+    }
+    .video-area {
+        height: 360px;
+    }
+   
+    .instagram-area{
+        display: none;
+    }
+    .client-say .client-caption {
+        padding: 0px 0px 0px 0px;
+    }
+    .footer-wrapper{
+        text-align: center;
+    }
+    .footer-tittle{
+        text-align: center;
+    }
+    .footer-area .footer-tittle h4 {
+        margin-bottom: 20px;
+        margin-top: 30px;
+    }
+    .number{
+        text-align: center !important;
+    }
+    
+    .footer-logo {
+        text-align: center;
+    }
+    .footer-padding {
+        padding-top: 50px;
+    }
+    .navbar-nav{
+        width: 170px;
+        float: right;
+    }
+    .collapse ul li {
+        margin-right: 0px;
+    }
+    
+}
+  
+
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 768px) {
+    html, body {
+        overflow-x: hidden;
+    }
+    .right-caption{
+        margin-left: 0px;
+    }
+    .storesection {
+        margin-bottom: 140px;
+    }
+    .instagram-area{
+        margin-top: 50px;
+    }
+    .navbar-nav{
+        width: 170px;
+        float: right;
+        text-align: center;
+    }
+    .collapse ul li a {
+        padding: 10px 0px;
+    }
+    .navbar{
+        background-color: transparent;
+    }
+    
+    
+  } 
+  
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {
+    .navbar{
+        background-color: white;
+    }
+    
+  } 
+  
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (min-width: 1200px) {
+    .example {background: pink;}
+  }
